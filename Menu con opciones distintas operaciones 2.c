@@ -66,7 +66,7 @@ int main (){
 				
 		}
 	}while (op != c); // Repetir el programa hasta que la persona elija la opcion 5
-	
+
 
 	return 0;
 }
